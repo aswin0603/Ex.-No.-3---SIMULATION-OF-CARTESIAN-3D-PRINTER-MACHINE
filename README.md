@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 14.12.2024
+# Ex. No. 05 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+### DATE: 14/12/2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -56,7 +56,7 @@
 
 
 ### Name: ASWIN B
-### Register Number: 24900642
+### Register Number: 212224110007
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
